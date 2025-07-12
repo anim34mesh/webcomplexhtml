@@ -4,7 +4,26 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
-
+#ff{
+  text-align: center;
+  text-decoration-line: none;
+  justify-content: space-between;
+  background-color: blue;
+}
+.gi{
+  text-align: center;
+}
+.hi{
+  display: flex;
+}
+#id{
+    display: fle;
+}
+.leftsection{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
 body {
   background-color: #f5f5fa;
   color: #111;
@@ -43,7 +62,7 @@ background
 
 .primary-btn {
   background: #4f46e5;
-  color: white;
+  color: rgb(80, 77, 77);
   padding: 12px 24px;
   border: none;
   border-radius: 8px;
@@ -60,7 +79,7 @@ background
 .stats {
   display: flex;
   justify-content: space-evenly;
-  background: #e0e7ff;
+  background: #a4aabd;
   padding: 40px 20px;
   text-align: center;
 }
@@ -116,7 +135,7 @@ textarea {
 }
 
 footer {
-  background: #4f46e5;
+  background: #2014a8;
   color: white;
   text-align: center;
   padding: 20px;
